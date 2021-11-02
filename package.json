@@ -1,0 +1,19 @@
+{
+  "name": "nodejsapp",
+  "version": "1.0.0",
+  "description": "This is an example for docker with nodejs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "docker",
+    "argocd"
+  ],
+  "author": "RaulAkeem",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
